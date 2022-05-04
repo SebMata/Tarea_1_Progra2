@@ -3,6 +3,6 @@ Para compilar el programa correr el siguiente comando:
 
 make
 
-Para ejecutar el programa ejecutar lo siguiente:
+Para ejecutar el programa correr lo siguiente:
 
 ./bin/envios
