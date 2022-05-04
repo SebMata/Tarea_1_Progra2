@@ -13,6 +13,9 @@ int main(){
     EnvioPostal* envio1 = new EnvioPostal(5,14,2);
     envios.push_back(envio1);
 
+    EnvioPostal* envio3 = new EnvioPostal(10,54,1);
+    envios.push_back(envio3);
+
     EnvioFedex* envio2 = new EnvioFedex(7,720);
     envios.push_back(envio2);
 
